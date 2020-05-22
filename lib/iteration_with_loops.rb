@@ -18,6 +18,6 @@ def join_nested_strings(src)
     counter += 1
   end
 
-  final_string = string_array.join(" s")
+  final_string = string_array.join(" ")
   return final_string
 end
